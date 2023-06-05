@@ -5,10 +5,10 @@ from datetime import datetime, timedelta
 from opencage.geocoder import OpenCageGeocode
 
 # Replace 'YOUR_API_KEY' with your actual API key from OpenWeatherMap
-API_KEY = 'f43e3a784877b503424966b18d4b4b07'
+API_KEY = 'f43e3a784877b50342s07'
 
 # Replace 'YOUR_GEOCODING_API_KEY' with your actual API key from OpenCage Geocoder
-GEOCODING_API_KEY = '16b6203912374ad29c7498b68cb6fbef'
+GEOCODING_API_KEY = '16b6203912374ad29sf'
 
 # List of cities in Europe
 cities = ['London', 'Paris', 'Berlin', 'Rome', 'Madrid', 'Amsterdam', 'Vienna', 'Athens', 'Prague',

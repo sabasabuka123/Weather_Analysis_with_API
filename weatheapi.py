@@ -4,10 +4,10 @@ import csv
 from datetime import datetime, timedelta
 
 # Replace 'YOUR_API_KEY' with your actual API key from OpenWeatherMap
-API_KEY = 'f43e3a784877b503424966b18d4b4b07'
+API_KEY = 'f43e3a784877b50342496s'
 
 # Replace 'YOUR_GEOCODING_API_KEY' with your actual API key from OpenCage Geocoder
-GEOCODING_API_KEY = '16b6203912374ad29c7498b68cb6fbef'
+GEOCODING_API_KEY = '16b62039123s'
 
 # List of countries in Europe
 countries = ['United Kingdom', 'France', 'Germany', 'Italy', 'Spain', 'Netherlands', 'Austria', 'Greece', 'Czech Republic',
